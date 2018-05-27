@@ -1,6 +1,6 @@
-#### Thao tác cần làm: apt update, apt upgrade.
-#### Các phần mềm cần cài sau khi cài Ubuntu: Chrome, Telegram, VLC, Deepin Teminal, Fcit-unikey,Vmware
-#### Chỉnh boot để boot tự vào win 10 ưu tiên
+#### 1. Thao tác cần làm: apt update, apt upgrade.
+#### 2. Các phần mềm cần cài sau khi cài Ubuntu: Chrome, Telegram, VLC, Deepin Teminal, Fcit-unikey,Vmware
+#### 3. Chỉnh boot để boot tự vào win 10 ưu tiên
 
 * Vmware:
 
